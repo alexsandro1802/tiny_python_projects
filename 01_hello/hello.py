@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 
 """
-Author: Alexandro <Alexandros-MacAir>
+Author: Alexandro Francois <Alexandros-MacAir>
 Date: 2023-02-02
 Purpose: Say Hellog
 """
