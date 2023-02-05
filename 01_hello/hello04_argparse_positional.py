@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+"""
 # Purpose: Say hello
-
+"""
 import argparse
 
 parser = argparse.ArgumentParser(description='Say hello')
