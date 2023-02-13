@@ -24,8 +24,10 @@ def main():
     args = get_args()
     jumper = {'1': '9', '2': '8', '3': '7', '4': '6', '5': '0',
               '6': '4', '7': '3', '8': '2', '9': '1', '0': '5'}
+              #This is a dictionary of the jumper
 
-    for char in args.text:
+    for char in args.text: #the number of text
+        
         print(jumper.get(char, char), end='')
     print()
 

@@ -39,7 +39,7 @@ def test_usage():
         assert rv == 0
         assert out.lower().startswith('usage')
 
-
+    
 # --------------------------------------------------
 def test_input():
     """test for input"""
