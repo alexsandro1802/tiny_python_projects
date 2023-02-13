@@ -3,7 +3,7 @@
 """
 Author: Alexandro Francois <Alexandros-MacAir>
 Date: 2023-02-02
-Purpose: Say Hellog
+Purpose: Say Hello
 """
 import argparse
 # C = 30
